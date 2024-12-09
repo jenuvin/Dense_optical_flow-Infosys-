@@ -1,4 +1,4 @@
-# Dense Optical Flow with Farneback Method
+# Dense Optical Flow 
 
 This repository contains a Jupyter Notebook that demonstrates the implementation of **dense optical flow** using the Farneback method in OpenCV. Dense optical flow calculates motion patterns between video frames, making it useful for applications such as motion tracking, object detection, and video stabilization.
 
